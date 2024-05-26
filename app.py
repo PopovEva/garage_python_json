@@ -57,6 +57,7 @@ def clear_data():
 def save_cars_to_file():
     with open('cars.json', 'w', encoding='utf-8') as file:
         json.dump(cars, file, ensure_ascii=False, indent=4)
+        
 
 def load_cars_from_file():
     try:
