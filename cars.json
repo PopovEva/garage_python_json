@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Mazda",
+        "model": "3",
+        "color": "Red",
+        "castName": "Omer"
+    },
+    {
+        "type": "Kia",
+        "model": "Picanto",
+        "color": "Navy Blue",
+        "castName": "Lora"
+    },
+    {
+        "type": "Reno",
+        "model": "2",
+        "color": "Green",
+        "castName": "Ron"
+    }
+]
